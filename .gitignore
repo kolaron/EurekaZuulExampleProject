@@ -2,6 +2,21 @@
 # Project specific excludes
 #
 
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
 tomcat
 
 #
@@ -22,13 +37,11 @@ tomcat
 *.sar
 *.class
 
-# Maven 
-target/
-
 # eclipse project file
 .settings/
 .classpath
 .project
+.metadata/
 
 
 # OS
