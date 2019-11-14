@@ -8,3 +8,4 @@ TODO
 - connection to database
 - transactions
 - token authorization
+- run under docker
