@@ -4,7 +4,7 @@ USED
 - API gateway - Zuul
 
 TODO
-- communication between services
+- communication between services (Service Mesh)
 - connection to database
 - transactions
 - token authorization
